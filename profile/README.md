@@ -1,4 +1,4 @@
-[![Dashio Banner](https://github.com/DashioDevs/.github/blob/main/profile/gh-orga-dashiodevs-banner.png)](https://www.dashio.net)
+[![Dashio banner with a dark domain-management dashboard background, the Dashio logo, and the headline “Domain lifecycle management — For IT teams, MSPs and growing companies.”](https://github.com/DashioDevs/.github/blob/main/profile/gh-org-dashiodevs-banner.png)](https://www.dashio.net)
 
 ## Welcome to Dashio 👋
 
