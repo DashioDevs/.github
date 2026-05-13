@@ -2,19 +2,26 @@
 
 ## Welcome to Dashio 👋
 
-Dashio is building a new kind of platform for modern organizations.
-We start with the essentials: an intuitive portal for domain registration, DNS management, and SSL certificates - fast, user-friendly, and built for non-technical users as well as IT teams.
+**Domain management for teams that need clarity, control, and transparent pricing.**
 
-But Dashio goes further. We're creating a modular foundation for lean, modern business tools:
-time tracking, vacation management, fleet operations, and other core functions that many small and mid-sized companies need - but without the complexity of SAP or outdated enterprise systems.
+Domains are critical digital assets. They protect brands, power websites, connect services, and often sit at the center of a company’s online presence.
 
-Unlike traditional solutions, Dashio is:
+Still, managing them is often harder than it should be: outdated interfaces, unclear workflows, limited team controls, missing configuration guidance, and pricing models that look cheap at first but become expensive at renewal.
 
-* **Modular**: only use what you need
-* **Secure**: built with privacy and control in mind
-* **Sustainable**: efficient tech, fair pricing, transparent roadmap
-* **Designed to grow with you**: from domain management to full internal operations
+Dashio is built to improve that experience.
 
-We serve customers who want to manage digital infrastructure and internal processes in one place, without compromise.
+We start with a modern platform for domains and DNS. Domains can be organized into separate spaces for projects, departments, clients, or business units. Each space can have its own members, permissions, and, where needed, separate billing.
 
-If you're tired of juggling messy portals or overpaying for bloated systems, Dashio is here to help you regain control.
+Access can be configured in detail, so people only get the permissions they actually need — for example to view domains, manage DNS records, handle renewals, or work inside a specific space.
+
+The base product covers everyday domain management with a clean workflow and fair pricing. Optional add-ons such as privacy protection, DNSSEC, forwarding, and enhanced DNS features can be activated when they make sense.
+
+## For developers
+
+We are working on an open API with public documentation, so teams can manage their domain setup directly from their own tools and workflows.
+
+We are also working on Terraform support for Dashio, making it possible to document and manage domain configurations as code.
+
+Most of our core product development currently happens in private repositories. At the same time, we build on and appreciate open source software. When we create reusable, non-business-critical tools, libraries, or examples, we try to publish them here to give something back and make it easier for developers to support and extend our services.
+
+Visit [dashio.net/](https://www.dashio.net) to learn more.
